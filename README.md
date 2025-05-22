@@ -26,9 +26,8 @@ This is a simple command-line **auction program** written in Python. It allows m
 
 Run the script and follow the prompts. Each user should take turns entering their bid, ensuring fairness and privacy during the auction.
 
-##### 📜 License
-
 -
 
+##### 📜 License
 This project is open-source and available under the MIT License.
 
