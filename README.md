@@ -9,7 +9,7 @@ This is a simple command-line **auction program** written in Python. It allows m
 - Clears the console after each bid (using `replit.clear()` for a clean interface).
 - Identifies and announces the highest bidder.
 
--
+
 
 ### 🚀 How It Works
 
@@ -17,13 +17,13 @@ This is a simple command-line **auction program** written in Python. It allows m
 2. After entering a bid, the screen clears to keep the bids private.
 3. Once no more bidders remain, it announces the **winner with the highest bid**
 
--
+
 
 #### 📝 Usage
 
 Run the script and follow the prompts. Each user should take turns entering their bid, ensuring fairness and privacy during the auction.
 
--
+
 
 ##### 📜 License
 This project is open-source and available under the MIT License.
